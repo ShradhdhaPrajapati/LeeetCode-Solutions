@@ -9,7 +9,7 @@ var cancellable = function (fn, args, t) {
     };
   };
   
-  // const result = [];
+   const result = [];
   
   // const fn = (x) => x * 5;
   // const args = [2],
